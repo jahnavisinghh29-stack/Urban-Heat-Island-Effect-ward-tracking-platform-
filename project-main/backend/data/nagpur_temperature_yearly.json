@@ -1,0 +1,68 @@
+[
+  {
+    "year": 2015,
+    "max_temp": 42.2,
+    "mean_temp": 36.5,
+    "min_temp": 30.8
+  },
+  {
+    "year": 2016,
+    "max_temp": 42.4,
+    "mean_temp": 36.7,
+    "min_temp": 31.0
+  },
+  {
+    "year": 2017,
+    "max_temp": 42.3,
+    "mean_temp": 36.5,
+    "min_temp": 30.7
+  },
+  {
+    "year": 2018,
+    "max_temp": 43.1,
+    "mean_temp": 37.2,
+    "min_temp": 31.4
+  },
+  {
+    "year": 2019,
+    "max_temp": 42.9,
+    "mean_temp": 37.1,
+    "min_temp": 31.4
+  },
+  {
+    "year": 2020,
+    "max_temp": 43.0,
+    "mean_temp": 37.1,
+    "min_temp": 31.2
+  },
+  {
+    "year": 2021,
+    "max_temp": 43.4,
+    "mean_temp": 37.7,
+    "min_temp": 32.0
+  },
+  {
+    "year": 2022,
+    "max_temp": 43.2,
+    "mean_temp": 37.4,
+    "min_temp": 31.5
+  },
+  {
+    "year": 2023,
+    "max_temp": 43.8,
+    "mean_temp": 37.9,
+    "min_temp": 32.0
+  },
+  {
+    "year": 2024,
+    "max_temp": 43.9,
+    "mean_temp": 38.1,
+    "min_temp": 32.4
+  },
+  {
+    "year": 2025,
+    "max_temp": 43.7,
+    "mean_temp": 37.9,
+    "min_temp": 32.1
+  }
+]
